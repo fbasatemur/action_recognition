@@ -22,10 +22,10 @@ Additionally, the address of the dataset used is as follows: [UCF-101.rar](https
 
 After a short training of 30 epochs, the results of the confusion matrices for the 3D CNN and LSTM models are expressed below.
 
-![img](./imgs/model_confusions.png)
+![img_confusions](https://github.com/fbasatemur/action_recognition/blob/main/imgs/model_confusions.png)
 
 ### 3D CNN model train graph;
-![img](./imgs/3d_cnn_accuracy.png)
+![img_train1](https://github.com/fbasatemur/action_recognition/blob/main/imgs/3d_cnn_accuracy.png)
 
 ### 2D CNN + LSTM model train graph;
-![img](./imgs/cnn_lstm_train.png)
+![img_train2](https://github.com/fbasatemur/action_recognition/blob/main/imgs/cnn_lstm_train.png)
